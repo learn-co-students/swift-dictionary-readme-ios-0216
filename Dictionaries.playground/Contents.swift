@@ -5,6 +5,8 @@ var favoriteWords = [
     "wabbit": "weary, exhausted",
 ]
 
+// Dictionary must have the same typeof keys and same type of values but does have to have same keys and values
+
 var numberWords = [1: "one"]
 
 var definition = favoriteWords["rigmarole"]
