@@ -15,6 +15,11 @@ In this lesson, we'll cover dictionaries, an important data structure in Swift.
 * Describe the syntax of dictionaries
 * Create and access elements in dicitonaries 
 
+## Video
+
+[![](http://img.youtube.com/vi/KhA4boXENqI/0.jpg)](http://www.youtube.com/watch?v=KhA4boXENqI "Dictionary")
+
+
 ## Dictionaries
 
 Remember the days before Google and Siri when you came across a word you didn't know and had to look it up in a big, heavy dictionary? Think back to those days, if you can still remember them. How is a dictionary organized?
