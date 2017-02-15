@@ -28,3 +28,13 @@ definition = favoriteWords["strategery"]
 
 favoriteWords["strategery"] = nil
 print(favoriteWords)
+
+
+var favoriteColors = ["blue" : "ok Color", "yellow": "most fave", "red": "least fav"]
+
+var numbs = [1: true, 0: false]
+
+let keys = [favoriteWords.keys]
+print(keys)
+
+
